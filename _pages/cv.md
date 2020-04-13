@@ -11,17 +11,17 @@ redirect_from:
 
 Also available as a [PDF](/files/CV.pdf).
 
-<div align="center"> Nathan C. Frey </div>
-<div align="center"> n.frey@seas.upenn.edu | (636) 634-7386 | https://ncfrey.github.io 
+### <div align="center"> Nathan C. Frey </div>
+<div align="center"> n.frey@seas.upenn.edu | (636) 634-7386 | https://ncfrey.github.io </div>
 
 Education
-======
+=========
 * Ph.D. Materials Science & Engineering, University of Pennsylvania, 2016 - Present
 * M.A. Physics, Boston University, 2014 - 2016
 * B.Sc. Physics and Mathematics, University of Missouri, Columbia, 2010 - 2014, *Summa Cum Laude* & Honors in Physics
 
 Work experience
-======
+===============
 * National Defense Science & Engineering Graduate Fellow 2016 - Present
 University of Pennsylvania , Philadelphia, PA
   * Applied multiscale modeling techniques including density functional theory, molecular dynamics, and finite element analysis to computational design of two-dimensional quantum materials and transition-metal oxide battery materials.
@@ -37,15 +37,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* [Google Scholar](https://scholar.google.com/citations?user=IMUja60AAAAJ)
     
 Service and leadership
 ======
