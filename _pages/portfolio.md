@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 
-You can find my projects on [Made With ML](https://madewithml.com/@ncfrey/).
+You can find my projects on [GitHub](https://github.com/ncfrey).
 
