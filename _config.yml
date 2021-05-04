@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan C. Frey"
+title                    : "Nathan C. Frey, PhD"
 title_separator          : "-"
-name                     : &name "Nathan C. Frey"
-description              : &description "I use multiscale modeling and computational techniques, including machine learning, to discover and design new materials for next-generation information processing platforms and sustainable energy applications."
+name                     : &name "Nathan C. Frey, PhD"
+description              : &description "I use multiscale modeling and machine learning to design materials and molecules."
 url                      : https://ncfrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ncfrey.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nathan C. Frey"
+  name             : "Nathan C. Frey, PhD"
   avatar           : "profile.png"
-  bio              : "Theoretical materials physicist, NDSEG Fellow, and PhD candidate in Materials Science & Engineering at the University of Pennsylvania in Philadelphia."
-  location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania"
+  bio              : "Physicist and Postdoc at MIT. Co-founder of AtomicAI. PhD in Materials Science & Engineering from UPenn."
+  location         : "Cambridge, MA | Richmond, VA"
+  employer         : "Massachusetts Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IMUja60AAAAJ"
   email            : "n.frey@seas.upenn.edu"

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my articles on [Medium](https://medium.com/@ncfrey).
+You can find my blog posts on [Medium](https://ncfrey.medium.com/).

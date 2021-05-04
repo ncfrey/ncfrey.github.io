@@ -11,29 +11,33 @@ redirect_from:
 
 Also available as a [PDF](/files/CV.pdf).
 
-<div align="center"> Nathan C. Frey </div>
+<div align="center"> Nathan C. Frey, PhD </div>
 <div align="center"> n.frey@seas.upenn.edu | (636) 634-7386 | https://ncfrey.github.io </div>
 
 Education
 =========
-* Ph.D. Materials Science & Engineering, University of Pennsylvania, 2016 - Present
+* Ph.D. Materials Science & Engineering, University of Pennsylvania, 2016 - 2021
 * M.A. Physics, Boston University, 2014 - 2016
 * B.Sc. Physics and Mathematics, *Summa Cum Laude* & Honors in Physics, University of Missouri, Columbia, 2010 - 2014 
 
 Work experience
 ===============
-* National Defense Science & Engineering Graduate Fellow 2016 - Present
-University of Pennsylvania , Philadelphia, PA
+* Massachusetts Institute of Technology, Cambridge, MA  
+Postdoctoral Associate, 2021 - Present 
+  * Postdoc with the Lincoln Laboratory Supercomputing and AI groups. 
+  
+* University of Pennsylvania, Philadelphia, PA  
+National Defense Science & Engineering Graduate Fellow, 2016 - 2021
   * Applied multiscale modeling techniques including density functional theory, molecular dynamics, and finite element analysis to computational design of two-dimensional quantum materials and transition-metal oxide battery materials.
   * Developed framework using positive and unlabeled machine learning and high-throughput first-principles calculations to predict synthesizability of novel bulk and two-dimensional materials.
 
-* Visiting Researcher 2019
-Lawrence Berkeley National Laboratory , Berkeley, CA
+* Lawrence Berkeley National Laboratory, Berkeley, CA
+Affiliate Scientist, 2019 - 2020  
   * Contributed to the Materials Project by building an automated graph-based and machine learning workflow for predicting properties of magnetic and topological materials as a visitor in the Persson group.
   
 Skills
 ======
-* Python, Bash, High performance computing, Git, Unix, SQL, MongoDB, Mathematica, LaTeX, Machine learning, Keras, TensorFlow, Inkscape, Blender, Conversational Japanese.
+* Python, Bash, High performance computing, Git, Unix, AWS (EC2, S3, Fargate, CDK, SageMaker), SQL, MongoDB, Mathematica, LaTeX, Machine learning, Keras, TensorFlow, Inkscape, Blender, Conversational Japanese.
 
 Publications
 ======
