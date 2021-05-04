@@ -31,7 +31,12 @@ National Defense Science & Engineering Graduate Fellow, 2016 - 2021
   * Applied multiscale modeling techniques including density functional theory, molecular dynamics, and finite element analysis to computational design of two-dimensional quantum materials and transition-metal oxide battery materials.
   * Developed framework using positive and unlabeled machine learning and high-throughput first-principles calculations to predict synthesizability of novel bulk and two-dimensional materials.
 
-* Lawrence Berkeley National Laboratory, Berkeley, CA
+* AtomicAI, Philadelphia, PA  
+Co-founder, 2020 - Present  
+  * Building data science solutions for bio- and nano-tech companies.  
+  * Providing data analytics and AI strategy consulting.  
+
+* Lawrence Berkeley National Laboratory, Berkeley, CA  
 Affiliate Scientist, 2019 - 2020  
   * Contributed to the Materials Project by building an automated graph-based and machine learning workflow for predicting properties of magnetic and topological materials as a visitor in the Persson group.
   
@@ -45,11 +50,11 @@ Publications
     
 Service and leadership
 ======
-* National Science Foundation Research Mentor 2016 - Present
-Boston, MA and Philadelphia, PA
+* National Science Foundation Research Mentor, 2016 - Present  
+Boston, MA and Philadelphia, PA  
   * Mentored high school teachers and undergraduates from underrepresented groups during summer research experiences.
 
-* Project Manager 2016 - 2018
-Weiss Tech House Innovation Fund , University of Pennsylvania, Philadelphia, PA
+* Project Manager, 2016 - 2018  
+Weiss Tech House Innovation Fund, University of Pennsylvania, Philadelphia, PA  
   * Sourced, assessed, and advised early-stage student-run startups through weekly coffee chats with founders.
   * Funded select startups after evaluating pitches and round-table discussions.
