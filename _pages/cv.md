@@ -12,7 +12,7 @@ redirect_from:
 Also available as a [PDF](/files/CV.pdf).
 
 <div align="center"> Nathan C. Frey, PhD </div>
-<div align="center"> n.frey@seas.upenn.edu | (636) 634-7386 | https://ncfrey.github.io </div>
+<div align="center"> ncfrey@mit.edu | (636) 634-7386 | https://ncfrey.github.io </div>
 
 Education
 =========
