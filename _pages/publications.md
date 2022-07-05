@@ -11,6 +11,7 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 Select Publications
 ====
+* **Frey, N.**, Soklaski, R., Axelrod, S., Samsi, S., Gomez-Bombarelli, R., Coley, C., & Gadepally, V. (2022). Neural Scaling of Deep Chemical Models.
 * **Frey, N. C.**, Samsi, S., Ramsundar, B., Coley, C. W., & Gadepally, V. (2021). Bringing Atomistic Deep Learning to Prime Time. arXiv preprint arXiv:2112.04977.
 * **Frey, N. C.**, Samsi, S., McDonald, J., Li, L., Coley, C. W., & Gadepally, V. (2021). Scalable Geometric Deep Learning on Molecular Graphs. arXiv preprint arXiv:2112.03364.
 * **NC Frey**, M. K. Horton, J. M. Munro, S. M. Griffin, K. A. Persson, V. B. Shenoy, High-throughput search for magnetic and topological order in transition metal oxides; Science Advances (2020).
@@ -21,7 +22,5 @@ Select Publications
 * **NC Frey**, J Wang, GIV Bellido, B Anasori, Y Gogotsi, VB Shenoy. Prediction of Synthesis of 2D Metal Carbides and Nitrides (MXenes) and Their Precursors with Positive and Unlabeled Machine Learning; ACS Nano (2019).
 * **NC Frey**, A Bandyopadhyay, H Kumar, B Anasori, Y Gogotsi, VB Shenoy. Surface Engineered MXenes: Electric Field Control of Magnetism and Enhanced Magnetic Anisotropy; ACS Nano (2019).
 * **NC Frey**, H Kumar, B Anasori, Y Gogotsi, VB Shenoy. Tuning Noncollinear Spin Structure and Anisotropy in Ferromagnetic Nitride MXenes; ACS Nano (2018).
-* **NC Frey**, BW Byles, H Kumar, D Er, E Pomerantseva, VB Shenoy. Prediction of optimal structural water concentration for maximized performance in tunnel manganese oxide electrodes; Phys. Chem. Chem.
-Phys. (2018).
 
 &dagger; Denotes equal contribution.
