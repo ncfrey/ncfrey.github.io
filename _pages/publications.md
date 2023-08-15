@@ -11,6 +11,8 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 Select Publications
 ====
+* **Frey, N. C.**, Berenberg, D., Zadorozhny, K., Kleinhenz, J., Lafrance-Vanasse, J., Hotzel, I., ... & Saremi, S. (2023). Protein Discovery with Discrete Walk-Jump Sampling. arXiv preprint arXiv:2306.12360.
+* Gruver, N., Stanton, S., **Frey, N. C.**, Rudner, T. G., Hotzel, I., Lafrance-Vanasse, J., ... & Wilson, A. G. (2023). Protein Design with Guided Discrete Diffusion. arXiv preprint arXiv:2305.20009.
 * **Frey, N.**, Soklaski, R., Axelrod, S., Samsi, S., Gomez-Bombarelli, R., Coley, C., & Gadepally, V. (2022). Neural Scaling of Deep Chemical Models.
 * **Frey, N. C.**, Samsi, S., Ramsundar, B., Coley, C. W., & Gadepally, V. (2021). Bringing Atomistic Deep Learning to Prime Time. arXiv preprint arXiv:2112.04977.
 * **Frey, N. C.**, Samsi, S., McDonald, J., Li, L., Coley, C. W., & Gadepally, V. (2021). Scalable Geometric Deep Learning on Molecular Graphs. arXiv preprint arXiv:2112.03364.
