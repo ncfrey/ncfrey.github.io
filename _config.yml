@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nathan C. Frey, PhD"
   avatar           : "profile.png"
-  bio              : "ML Scientist & Group Leader at Prescient Design • Genentech. Co-founder of Atomic Data Sciences."
+  bio              : "Principal ML Scientist & Group Leader at Prescient Design • Genentech."
   location         : "Manhattan, NY"
   employer         : "Prescient Design • Genentech"
   pubmed           : 
@@ -237,12 +237,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _team
   - scope:
       path: ""
-      type: talks
+      type: team
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
