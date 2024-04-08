@@ -12,7 +12,7 @@ redirect_from:
 Also available as a [PDF](/files/CV.pdf).
 
 <div align="center"> Nathan C. Frey, PhD </div>
-<div align="center"> ncfrey@mit.edu | (636) 634-7386 | https://ncfrey.github.io </div>
+<div align="center"> frey.nathan.nf1@gene.com | (636) 634-7386 | https://ncfrey.github.io </div>
 
 Education
 =========
@@ -22,6 +22,11 @@ Education
 
 Work experience
 ===============
+* Prescient Design, Genentech, New York, NY  
+Principal Machine Learning Scientist & Group Leader, 2022 - Present
+  * Invented and applied new generative machine learning methods and property prediction oracles that are in production usage for “lab-in-the-loop” autonomous antibody design.
+  * Led a team of machine learning scientists and engineers to conduct high-impact research in ML and biology and contribute to active pipeline projects.
+  
 * Massachusetts Institute of Technology, Cambridge, MA  
 Postdoctoral Associate, 2021 - Present 
   * Postdoc with the Lincoln Laboratory Supercomputing and AI groups. 
