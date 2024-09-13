@@ -19,6 +19,8 @@ Machine Learning Scientists
 
 Graduate Student Interns
 * [Amy X. Lu](https://amyxlu.github.io/)
+* [Angelica Chen](https://angie-chen55.github.io/)
 
 Lab Alumni
+* [Charlotte Rochereau](https://scholar.google.com/citations?user=XrYybDwAAAAJ&hl=en) (Grad Student Intern, Columbia University)
 
