@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my blog posts on [Medium](https://ncfrey.medium.com/).
+You can find my writing about machine learning and biology on [Substack](https://ncfrey.substack.com/).
