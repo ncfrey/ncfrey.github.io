@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathan C. Frey, PhD"
 title_separator          : "-"
 name                     : &name "Nathan C. Frey, PhD"
-description              : &description "I use multiscale modeling and machine learning to design materials and molecules."
+description              : &description "Building"
 url                      : https://ncfrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ncfrey.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathan C. Frey, PhD"
   avatar           : "profile.png"
-  bio              : "Principal ML Scientist & Group Leader at Prescient Design • Genentech."
+  bio              : "Building. Ex-Prescient Design • Genentech."
   location         : "Manhattan, NY"
-  employer         : "Prescient Design • Genentech"
+  employer         : "Stealth startup"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IMUja60AAAAJ"
-  email            : "frey.nathan.nf1@gene.com"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -237,14 +237,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _team
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
