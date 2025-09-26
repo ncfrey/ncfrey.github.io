@@ -11,6 +11,7 @@ author_profile: true
 * LinkedIn: [ncfrey](https://www.linkedin.com/in/ncfrey/)
 * Google Scholar: [Nathan C. Frey](https://scholar.google.com/citations?user=IMUja60AAAAJ)
 * Substack: [Nathan's Substack](https://ncfrey.substack.com)
+* Email [nathan at coefficientbio dot com](nathan@coefficientbio.com)
 
 
 
