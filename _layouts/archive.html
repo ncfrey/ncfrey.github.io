@@ -19,6 +19,15 @@ layout: default
     {% if page.permalink == "/publications/" %}
       {% include schema-publications.html %}
     {% endif %}
+    {% if page.permalink == "/cv/" %}
+      {% include schema-cv.html %}
+    {% endif %}
+    {% if page.permalink == "/portfolio/" %}
+      {% include schema-portfolio.html %}
+    {% endif %}
+    {% if page.permalink == "/faq/" %}
+      {% include schema-faq.html %}
+    {% endif %}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
