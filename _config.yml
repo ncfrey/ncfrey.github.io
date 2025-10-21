@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathan C. Frey, PhD"
 title_separator          : "-"
 name                     : &name "Nathan C. Frey, PhD"
-description              : &description "CTO & Co-Founder at Coefficient Bio"
+description              : &description "CTO & Co-Founder at Coefficient Bio. Building for the future in AI-native biotech."
 url                      : https://ncfrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ncfrey.github.io"
@@ -73,16 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-W6RK1ERT7V"
 
 
 # Site Author
 author:
   name             : "Nathan C. Frey, PhD"
   avatar           : "profile.png"
-  bio              : "CTO & Co-Founder at Coefficient Bio. Ex-Prescient Design • Genentech."
+  bio              : "CTO & Co-Founder at Coefficient Bio. Building for the future in AI-native biotech. Ex-Prescient Design • Genentech."
   location         : "New York, NY"
   employer         : "Coefficient Bio"
   pubmed           : 

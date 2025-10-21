@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+description: "Nathan C. Frey's scientific publications on AI drug discovery, foundation models for biology, protein generative models, and machine learning for therapeutic development. Featured work includes ICLR Outstanding Paper on discrete walk-jump sampling for protein discovery, neural scaling of chemical models in Nature Machine Intelligence, and Lab-in-the-Loop autonomous antibody design."
 author_profile: true
 ---
 

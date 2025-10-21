@@ -2,6 +2,7 @@
 layout: archive
 title: "Contact"
 permalink: /contact/
+description: "Contact Nathan C. Frey, PhD for speaking engagements, advisory services, and biotech AI consultation."
 author_profile: true
 ---
 

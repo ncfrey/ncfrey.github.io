@@ -1,0 +1,55 @@
+# Robots.txt for ncfrey.github.io
+# Optimized for SEO and search engine crawling
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ncfrey.github.io/sitemap.xml
+
+# Disallow access to vendor and development files
+Disallow: /vendor/
+Disallow: /assets/js/vendor/
+Disallow: /assets/js/plugins/
+Disallow: /.git/
+Disallow: /.sass-cache/
+Disallow: /node_modules/
+
+# Allow all major search engines and AI crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# OpenAI GPTBot (for ChatGPT)
+User-agent: GPTBot
+Allow: /
+
+# Anthropic ClaudeBot
+User-agent: anthropic-ai
+Allow: /
+
+# Common Crawl (for AI training and search)
+User-agent: CCBot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Allow all AI research crawlers for maximum visibility
+User-agent: Applebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Crawl-delay to be respectful of server resources
+Crawl-delay: 1
