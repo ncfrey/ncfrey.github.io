@@ -1,0 +1,70 @@
+{% if page.date %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}",
+  "alternativeHeadline": "{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once | truncate: 160 }}",
+  {% if page.description %}
+  "description": "{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}",
+  {% elsif page.excerpt %}
+  "description": "{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}",
+  {% endif %}
+  "inLanguage": "en-US",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.modified %}
+  "dateModified": "{{ page.modified | date_to_xmlschema }}",
+  {% else %}
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.url }}{{ site.baseurl }}/about/",
+    "jobTitle": "Chief Technology Officer",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Coefficient Bio"
+    },
+    "alumniOf": [
+      {
+        "@type": "Organization",
+        "name": "Massachusetts Institute of Technology"
+      },
+      {
+        "@type": "Organization",
+        "name": "Princeton University"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}{{ site.baseurl }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  {% if page.tags %}
+  "keywords": "{{ page.tags | join: ', ' }}",
+  {% endif %}
+  "articleSection": "AI Drug Discovery",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "AI-native drug discovery"
+    },
+    {
+      "@type": "Thing",
+      "name": "Machine learning in pharma"
+    },
+    {
+      "@type": "Thing",
+      "name": "AI for bio"
+    }
+  ]
+}
+</script>
+{% endif %}
