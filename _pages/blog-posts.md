@@ -10,4 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my writing about machine learning and biology on [Substack](https://ncfrey.substack.com/).
+I write about machine learning and biology, with a focus on practical applications in drug discovery, AI strategy for biotech, and career guidance for computational scientists. Below are featured articles that give an idea for what I like to write about - read the full posts on [Substack](https://ncfrey.substack.com/).
+
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
