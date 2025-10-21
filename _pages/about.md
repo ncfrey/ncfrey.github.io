@@ -9,6 +9,12 @@ redirect_from:
   - /about.html
 ---
 
+CTO and Co-Founder at [Coefficient Bio](https://coefficientbio.com/). Formerly, I was a Group Leader and Principal Scientist at Prescient Design • Genentech. At Prescient, I led a multidisciplinary project team of machine learning scientists and engineers, molecular biologists, computational biologists, postdoctoral and graduate student researchers to conduct collaborative research on biological foundation models and novel AI/ML approaches to biomolecule design, resulting in new capabilities deployed to drug discovery projects. I was on the Foundation Model and Large Molecule Drug Discovery Leadership Teams, where I set the research and product directions, roadmaps, and long-term AI strategy for Roche and Genentech. I also established and led our collaboration with NVIDIA.
+
+I have published more than 20 scientific papers in journals such as Science Advances, Nature Machine Intelligence, and ACS Nano, and ML conferences including NeurIPS, ICML, and ICLR. I won an ICLR Outstanding Paper Award for innovative work on generative modeling and biology, and seven spotlight awards from the main conference track and workshops at NeurIPS, ICML, and ICLR.
+
+I am on the scientific advisory boards of [Atomscale](https://www.atomscale.ai/) and [Guide Labs](https://www.guidelabs.ai/).
+
 ## Current
 
 **CTO & Co-Founder**, [Coefficient Bio](https://coefficientbio.com/) (2024-present)
