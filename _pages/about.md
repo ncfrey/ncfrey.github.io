@@ -2,8 +2,9 @@
 permalink: /
 title: "About Me"
 excerpt: "About Me"
+description: "Nathan C. Frey, PhD is CTO & Co-Founder at Coefficient Bio, building for the future in AI-native biotech. Former Group Leader &Principal Scientist at Genentech's Prescient Design, ICLR Outstanding Paper Award winner, with 20+ publications in AI drug discovery and autonomous therapeutic design."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
