@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    }
+    {% if page.collection == 'posts' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog Posts",
+      "item": "{{ site.url }}{{ site.baseurl }}/blog-posts/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% elsif page.collection == 'publications' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Publications",
+      "item": "{{ site.url }}{{ site.baseurl }}/publications/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% elsif page.collection == 'portfolio' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Portfolio",
+      "item": "{{ site.url }}{{ site.baseurl }}/portfolio/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% elsif page.url != '/' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% endif %}
+  ]
+}
+</script>

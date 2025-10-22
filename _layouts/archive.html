@@ -16,6 +16,7 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
+    {% include schema-breadcrumbs.html %}
     {% if page.permalink == "/publications/" %}
       {% include schema-publications.html %}
     {% endif %}

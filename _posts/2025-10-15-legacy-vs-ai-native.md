@@ -82,7 +82,6 @@ The question isn't "legacy vs. AI-native"—it's whether your organization can f
 
 Build new. Build different. Or accept that AI augmentation, not transformation, is the realistic path.
 
-**Reading time:** 6 minutes
 **Full article:** [Read on Substack](https://ncfrey.substack.com/p/legacy-vs-ai-native-companies-isnt)
 
 ## Related Resources

@@ -1,0 +1,174 @@
+{% if page.url contains '/getting-started-bioml/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Getting Started in BioML Research & Engineering",
+  "description": "Breaking into AI for Bio requires 1-5 years of sustained effort: solid fundamentals, meaningful research experience, demonstrated execution ability, and strong engineering practices.",
+  "image": "{{ site.url }}{{ site.baseurl }}/images/profile.png",
+  "totalTime": "PT1Y6M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Computer with internet connection"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Python programming environment"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Kyunghyun Cho's ML Lecture Notes"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Kevin Patrick Murphy's Probabilistic Machine Learning"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Pat Walter's Practical Cheminformatics tutorials"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "GitHub for version control"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Build Core Fundamentals",
+      "text": "Study machine learning using Kyunghyun Cho's 2025 ML Lecture Notes and Kevin Patrick Murphy's Probabilistic Machine Learning. Learn Python, version control (Git), testing, and documentation. Study linear algebra, probability, and optimization. Build biological understanding through enthusiasm and reading papers.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#core-fundamentals-6-12-months",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Complete Kyunghyun Cho's ML Lecture Notes"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Study Kevin Patrick Murphy's Probabilistic Machine Learning"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Learn Python, Git, testing, and documentation"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Study linear algebra, probability, and optimization"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Develop Practical Skills",
+      "text": "Learn cheminformatics using Pat Walter's tutorials. Practice with protein modeling tools like AlphaFold and ESMFold. Master data analysis with Pandas and visualization. Set up Jupyter notebooks, experiment tracking, and reproducible workflows.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-skills-12-24-months",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Complete Pat Walter's Practical Cheminformatics tutorials"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Practice with AlphaFold and ESMFold"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Master Pandas, visualization, and statistical testing"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Set up experiment tracking and reproducibility tools"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Complete Research Experience",
+      "text": "Publish a complete project from start to finish with results and writeup. Collaborate with experimentalists or computational scientists. Present your work at conferences, lab meetings, or through blog posts.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#research-experience-12-36-months",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Complete and publish one research project"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Collaborate with experimentalists or computational scientists"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Present work at conferences or through publications"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Pick One Foundational Resource",
+      "text": "Choose one foundational resource and work through it completely rather than sampling multiple resources superficially.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Identify One Research Problem",
+      "text": "Find one research problem you find interesting and want to solve. This demonstrates problem-solving agency.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Build One Small Project",
+      "text": "Create one small project demonstrating your skills with clean, well-documented code.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Share Your Work",
+      "text": "Publish your work on GitHub with documentation, write a blog post explaining it, or create a preprint if appropriate.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Attend One Conference",
+      "text": "Attend a conference in the field and introduce yourself to researchers. Network before you need to.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Send Cold Emails",
+      "text": "Send cold emails to 5-10 researchers whose work you admire. Build relationships proactively.",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#practical-next-steps"
+    }
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "AI for Bio Careers"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Nathan C. Frey",
+    "jobTitle": "CTO & Co-Founder",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Coefficient Bio"
+    },
+    "url": "{{ site.url }}{{ site.baseurl }}"
+  }
+}
+</script>
+{% endif %}
