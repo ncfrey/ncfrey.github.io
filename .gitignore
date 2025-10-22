@@ -1,4 +1,6 @@
 _site/
+vendor/
+.bundle/
 
 # Planning and specification documents
 specs/

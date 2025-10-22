@@ -47,6 +47,9 @@
     "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
   },
   "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "wordCount": "{{ content | number_of_words }}",
+  "timeRequired": "PT{{ content | number_of_words | divided_by: 200 | plus: 1 }}M",
+  "image": "{{ site.url }}{{ site.baseurl }}/images/profile.png",
   {% if page.tags %}
   "keywords": "{{ page.tags | join: ', ' }}",
   {% endif %}

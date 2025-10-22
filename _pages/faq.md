@@ -2,7 +2,7 @@
 layout: archive
 title: "AI Drug Discovery FAQ"
 permalink: /faq/
-description: "Expert answers on AI-native drug discovery, foundation models for biology, machine learning in pharma, BioML careers, and biotech AI strategy from Nathan C. Frey, PhD - CTO at Coefficient Bio and former Principal Scientist at Genentech."
+description: "Expert answers on AI-native drug discovery, foundation models for biology, machine learning in pharma, AI careers in biotech, and biotech AI strategy from Nathan C. Frey, PhD - CTO at Coefficient Bio and former Principal Scientist at Genentech."
 author_profile: true
 ---
 
@@ -243,7 +243,7 @@ Hit identification and lead optimization dropped from months to weeks; later-sta
 
 ---
 
-**Have a question not answered here?** Connect via [LinkedIn](https://www.linkedin.com/in/ncfrey/) or [Substack](https://ncfrey.substack.com/).
+**Have a question not answered here?** Connect via [LinkedIn](https://www.linkedin.com/in/ncfrey/), [Twitter/X](https://twitter.com/nc_frey), or [Substack](https://ncfrey.substack.com/).
 
 *This FAQ is regularly updated based on questions from biotech executives, investors, researchers, and students navigating AI transformation in drug discovery.*
 

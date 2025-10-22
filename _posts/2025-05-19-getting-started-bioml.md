@@ -91,7 +91,6 @@ This takes 1-5 years. Long-term career investment. The world needs your contribu
 
 Don't wait for permission. Start building.
 
-**Reading time:** 10 minutes
 **Full article:** [Read on Substack](https://ncfrey.substack.com/p/getting-started-in-bioml-research)
 
 ## Related Resources

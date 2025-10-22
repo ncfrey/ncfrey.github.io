@@ -78,7 +78,6 @@ Structure prediction accuracy determines computational antibody design success. 
 
 The field celebrates generative capabilities. Focus should shift to filtering, scoring, and ranking protocols that determine actual success rates in therapeutic contexts.
 
-**Reading time:** 8 minutes
 **Full article:** [Read on Substack](https://ncfrey.substack.com/p/the-nuances-of-antibody-structure)
 
 ## Related Resources

@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of AI/ML in Drug Discovery Isn't Where You Think It Is'
+title: 'The Impact of AI/ML in Drug Discovery Isn''t Where You Think It Is'
 date: 2024-08-26
 permalink: /posts/2024/08/ai-impact-drug-discovery/
 tags:
@@ -55,7 +55,6 @@ Experienced teams extract maximum insights from data in minutes. Analysis runs f
 
 Reject techno-optimism and biological determinism. AI for bio scientists should improve established drug discovery processes with interpretable, model-driven decision systems. Understand existing workflows deeply before automating them. Revolutionary breakthroughs come later.
 
-**Reading time:** 8 minutes
 **Full article:** [Read on Substack](https://ncfrey.substack.com/p/the-impact-of-aiml-in-drug-discovery)
 
 ## Related Resources
