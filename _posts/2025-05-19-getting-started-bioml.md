@@ -95,6 +95,7 @@ Don't wait for permission. Start building.
 
 ## Related Resources
 
+- [Ask Not Why More Talented People Don't Work in Biotech](/posts/2025/12/biotech-talent/) - Evaluating biotech culture before you join
 - [The Impact of AI/ML in Drug Discovery](/posts/2024/08/ai-impact-drug-discovery/) - Understanding where AI for bio delivers value
 - [My Publications](/publications/) - Examples of AI for bio research in practice
 - [About Me](/about/) - My path from materials science PhD to biotech CTO

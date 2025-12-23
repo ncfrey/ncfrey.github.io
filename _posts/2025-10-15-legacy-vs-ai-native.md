@@ -86,6 +86,7 @@ Build new. Build different. Or accept that AI augmentation, not transformation, 
 
 ## Related Resources
 
+- [Ask Not Why More Talented People Don't Work in Biotech](/posts/2025/12/biotech-talent/) - Why biotech struggles to attract talent and how to fix it
 - [The Impact of AI/ML in Drug Discovery](/posts/2024/08/ai-impact-drug-discovery/) - Where AI delivers actual ROI in pharma
 - [Getting Started in BioML Research](/posts/2025/05/getting-started-bioml/) - Building career in AI-native organizations
 - [About Coefficient Bio](/about/) - Example of truly AI-native biotech built from day one
